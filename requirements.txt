@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+colorama
+python-whois
+pyfiglet
+tqdm
